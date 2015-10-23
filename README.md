@@ -6,3 +6,4 @@
 **创建一个新的分支feature1**
 #提交到远程仓库
 重新clone
+取消FastForward提交模式.
