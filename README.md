@@ -8,3 +8,4 @@
 重新clone
 取消FastForward提交模式.
 在dev分支进行更改.
+在release 分支上进行了修改，并且添加了几个新的分支。
