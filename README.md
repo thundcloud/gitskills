@@ -7,5 +7,8 @@
 #提交到远程仓库
 重新clone
 取消FastForward提交模式.
+在dev分支进行更改.
+在release 分支上进行了修改，并且添加了几个新的分支。
 在dev分支进行更改。
-test分支进行的更改。等下还需要删除test分支。
+test1分支的更改`
+更改了一个新的BIG issue-101
