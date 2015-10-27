@@ -12,3 +12,4 @@
 在dev分支进行更改。
 test1分支的更改`
 更改了一个新的BIG issue-101
+再次来到test分支，验证stash。
