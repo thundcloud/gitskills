@@ -7,4 +7,5 @@
 #提交到远程仓库
 重新clone
 取消FastForward提交模式.
-在dev分支进行更改.
+在dev分支进行更改。
+在test分支进行的更改。等下还需要删除test分支。
